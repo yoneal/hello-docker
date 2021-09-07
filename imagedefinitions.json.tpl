@@ -1,6 +1,6 @@
 [
   {
-    "name": "process-listener",
+    "name": "web",
     "imageUri": "IMAGE_URI"
   }
 ]
